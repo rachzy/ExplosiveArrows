@@ -1,0 +1,17 @@
+name: ExplosiveArrows
+version: '${project.version}'
+main: me.rachzy.explosivearrows.ExplosiveArrows
+authors: [ rachzy ]
+description: A simple plugin that adds a bow with explosive arrows for the game
+website: https://github.com/rachzy/ExplosiveArrows
+commands:
+  explosivebow:
+    description: Gets a bow that fires explosive arrows
+    usage: /<command>
+    aliases:
+      - ebow
+  explosivearrows:
+    description: Gets arrows that explode everything they touch
+    usage: /<command>
+    aliases:
+      - earrows

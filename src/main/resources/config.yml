@@ -1,0 +1,21 @@
+arrow_explosion_power: 5
+arrow_fire_on_explosion_enabled: true
+
+explosivebow_name: "&cExplosive Bow"
+explosivebow_lore:
+  - "&7It fires explosive arrows!"
+explosivebow_infinite_enchantment: true
+
+explosivearrow_name: "&cExplosive Arrow"
+explosivearrow_lore:
+  - "&7The Minecraft grenade!"
+
+not_a_player_message: "&cThis command can only be executed by players!"
+no_permission_message: "&cYou don't have permission to use this command!"
+
+getarrows_no_args_message: "&cUse: /explosivearrows <:amount>"
+getarrows_invalid_amount_message: "&cThe amount of arrows must range from 1 to 64"
+getarrows_must_be_integer_message: "&cThe amount of arrows must be an integer number!"
+getarrows_success_message: "&aYou have got &e%sx &cExplosive Arrows!"
+
+getbow_success_message: "§aHere's your §cExplosive Bow!"
